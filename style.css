@@ -1,0 +1,29 @@
+
+body{
+   
+    border: 3px black;
+    width: 180px;
+    border-color:black;
+    border-width: 5px;
+    border-style: groove;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-left: 30%;
+}
+
+#head{
+    border-bottom-width: 1px;
+}
+
+div{
+    border-color: blue;
+    border-width: 2px;
+    border-style: groove;    
+}
+#title1{
+
+    
+    background-color: blueviolet;
+    text-align: center;
+}
+
